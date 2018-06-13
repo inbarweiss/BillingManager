@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BillingManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BillingManager_jar</output-path>
+    <root id="archive" name="BillingManager.jar">
+      <element id="module-output" name="BillingManager" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/opencsv-4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
